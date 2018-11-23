@@ -1,4 +1,4 @@
-Coin :  UOU
+Coin :  UOU Pipe
 
 Ticker : UOU
 
